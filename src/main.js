@@ -1,1 +1,1 @@
-// точка входа Vite
+import './styles/styles.css'
